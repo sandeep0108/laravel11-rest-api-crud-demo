@@ -53,7 +53,7 @@ php artisan key:generate
 
 6. Update the database credentials in the .env file to match your local environment.
 Then Run migrations to create the necessary tables:
-7. 
+ 
 ```bash
 php artisan migrate
 ```
